@@ -2,7 +2,7 @@
 Trial repository
 
 Until now:
-Created new repository in GitHub and cloned it to VS Code. 
+Created new repository in GitHub and cloned it to VS Code.<br> 
 *command used is "git clone <url>"
 Now editing the README.md file
 *md-mark down
